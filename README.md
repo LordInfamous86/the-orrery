@@ -18,6 +18,16 @@ The Orrery is a personal celestial observatory for exploring current planetary p
 
 The Ascendant, houses, birthplace-based chart features, and chart editing/deletion are outside the current release scope.
 
+## Screenshots
+
+### Observatory
+
+![The Orrery observatory showing planetary positions, a planetary note, and notable aspects](screenshots/observatory.png)
+
+### Natal chart explorer
+
+![The natal chart explorer with birth date, local time, and Central Time selected](screenshots/natal-chart.png)
+
 ## Architecture
 
 ```mermaid
