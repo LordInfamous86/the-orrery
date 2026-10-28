@@ -78,7 +78,7 @@ Requirements: Node.js 18 or later and npm.
 
 ```sh
 npm ci
-Copy-Item .env.example .env.local
+cp .env.example .env.local
 npm run dev
 ```
 
